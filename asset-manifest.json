@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cinerama/static/css/main.9a9652ec.chunk.css",
+    "main.js": "/cinerama/static/js/main.4833fdca.chunk.js",
+    "main.js.map": "/cinerama/static/js/main.4833fdca.chunk.js.map",
+    "runtime-main.js": "/cinerama/static/js/runtime-main.0f65ef07.js",
+    "runtime-main.js.map": "/cinerama/static/js/runtime-main.0f65ef07.js.map",
+    "static/js/2.768a50b2.chunk.js": "/cinerama/static/js/2.768a50b2.chunk.js",
+    "static/js/2.768a50b2.chunk.js.map": "/cinerama/static/js/2.768a50b2.chunk.js.map",
+    "index.html": "/cinerama/index.html",
+    "static/css/main.9a9652ec.chunk.css.map": "/cinerama/static/css/main.9a9652ec.chunk.css.map",
+    "static/js/2.768a50b2.chunk.js.LICENSE.txt": "/cinerama/static/js/2.768a50b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f65ef07.js",
+    "static/js/2.768a50b2.chunk.js",
+    "static/css/main.9a9652ec.chunk.css",
+    "static/js/main.4833fdca.chunk.js"
+  ]
+}
